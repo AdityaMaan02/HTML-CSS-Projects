@@ -1,0 +1,93 @@
+body {
+    background-color: LightGray;
+}
+
+.button-ui-1 button{
+    background:gray;
+    border:none;
+    border-radius: 12px;
+    color:white;
+    padding: 3px;
+}
+
+.button-ui-2 button{
+    background: linear-gradient(45deg, black, transparent);;
+    border:none;
+    border-radius: 15px;
+    color:white;
+    padding: 6px;
+}
+
+p1 {
+    color: darkblue;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.container {
+    width: 1250px;
+}
+
+.logo-size img{
+    width:100%;
+    max-width: 42px;
+}
+
+.button-ui-3 button{
+    background:LightGray;
+    border:none;
+}
+
+.button-ui-3 {
+    padding: 23px;
+}
+
+.col-md-2 {
+    margin: 20px;
+}
+
+.first-img img{
+    width:100%;
+}
+
+.office-img img{
+    width:100%;
+}
+
+.agency-spacing {
+    padding: 110px 0px 0px 0px;
+}
+
+h1{
+    font-weight: 900;
+    color: darkblue;
+}
+
+p2 {
+    color: darkblue;
+}
+
+p {
+    color: grey;
+}
+
+h3{
+    color:lightgreen;
+}
+
+.card-ui-2 {
+    background: lightgreen;
+    border-radius: 14px;
+    color: white;
+}
+
+.card-ui-3 {
+    background: lightgreen;
+    border-radius: 14px;
+    color: white;
+}
+
+.col-md-3 {
+    margin: 30px 20px 50px 60px;
+    padding: 0px;
+}
